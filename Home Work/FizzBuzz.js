@@ -13,4 +13,4 @@ function FizzBuzz(num){
     }
     return result;
 }
-console.log(FizzBuzz(15));
+console.log(FizzBuzz(5));
